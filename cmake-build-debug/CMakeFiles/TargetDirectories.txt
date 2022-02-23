@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerk-hazi1/cmake-build-debug/CMakeFiles/adatszerk_hazi1.dir
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerk-hazi1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerk-hazi1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

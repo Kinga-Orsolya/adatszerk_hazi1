@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerk-hazi1/averagefunction.h
+
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerk-hazi1/forditottfunction.h
+
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerk-hazi1/main.c
+stdio.h
+-
+averagefunction.h
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerk-hazi1/averagefunction.h
+pppn.h
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerk-hazi1/pppn.h
+forditottfunction.h
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerk-hazi1/forditottfunction.h
+
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerk-hazi1/pppn.h
+
